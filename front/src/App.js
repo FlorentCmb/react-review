@@ -2,6 +2,7 @@
 import React from 'react'
 
 // Components & screens
+import Header from './components/Header'
 
 // Styles
 import './App.css'
@@ -9,7 +10,7 @@ import './App.css'
 const App = () => {
   return (
     <div className="App">
-      App
+      <Header />
     </div>
   )
 }
