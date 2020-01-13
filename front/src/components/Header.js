@@ -9,7 +9,7 @@ const Header = () => {
             {/*navbar*/}
 
             <p>UniD</p>
-            <Link className="Header-Link">
+            <Link to='/' className="Header-Link">
                 Home
             </Link>
 
